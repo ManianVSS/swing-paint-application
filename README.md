@@ -1,8 +1,7 @@
-
 What is Swing Paint Application ?
 ---------
 
-A basic paint application based on Java swing made for College as a Mini-project. 
+A basic paint application based on Java swing made for College as a Mini-project.
 
 Features
 ---------
@@ -39,13 +38,16 @@ Color Picker ( JColorChooser)
 ## How to use this repository
 
 * Fork it.
-* Click on Clone or download  button in top right corner.
+* Click on Clone or download button in top right corner.
 * Download zip.
 * Extract.
 * Open eclipse or any IDE and Import project.
 * Run InputWH.java.
-* If you're experiencing NullPointerException issue regarding images, the images stored in /bin folder might not be downloaded, so please download them manually from this repository from bin folder and link/copy those images with your project in eclipse.
+* If you're experiencing NullPointerException issue regarding images, the images stored in /bin folder might not be
+  downloaded, so please download them manually from this repository from bin folder and link/copy those images with your
+  project in eclipse.
 
 ## Note
 
-All icons used in the project are placed in /bin folder. So if you're experiencing any NullPointerException issue, please link/copy those image files in your project properly.
+All icons used in the project are placed in /bin folder. So if you're experiencing any NullPointerException issue,
+please link/copy those image files in your project properly.
